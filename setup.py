@@ -8,8 +8,8 @@ here = os.path.abspath( os.path.dirname( __file__ ) )
 README = open(os.path.join( here, 'README.rst' ) ).read()
 
 setup(
-	name='tetrapod',
-   version='1.0',
+	name='bgcclient',
+   version='0.1',
    description='',
    long_description=README,
    license='',
